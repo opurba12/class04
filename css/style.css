@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+
+}
+.Container{
+ padding: 100px 0;
+ width: 1200px;
+ margin: 100px auto;
+ overflow: hidden;
+ padding: 100%;
+}
+.P{
+	font-size: 22px;
+	line-height: 2.6;
+}
+P spam{
+	background: red;
+	color: #FC5C7D;
+	padding: 5px 20px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+a{
+	text-decoration: none;
+	text-transform: capitalize;
+	padding: 15px 30px;
+	background: #FC5C7D;
+	display: inline-block;
+}
+
+strong{
+	background: black;
+	color: #fff;
+	padding: 13px 40px;
+	display: inline-block;
+}
+
+.box{
+	width: 33.33%;
+	float: left;
+	padding: 90px;
+}
+article{
+
+padding: 80px 45px;
+background: linear-gradient(180deg,#fc4a1a,#f7b733);
+box-shadow: 35px 35px 70px #FC5C7D,
+            -35px-35px 70px #6A82FB;
